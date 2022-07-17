@@ -17,7 +17,7 @@ const columns = [
   {
     title: 'Height (mts)',
     dataIndex: 'height',
-    key: 'height',     
+    key: 'height',
   },
   {
     title: 'Cant Films',
